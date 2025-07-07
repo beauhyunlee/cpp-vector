@@ -44,8 +44,6 @@ cpp-vector/
 - [x] `get(int)` with bounds checking
 - [x] `size()` returns the number of stored elements
 - [x] Testing through `main.cpp`
-- [ ] (optional) `pop()`, `clear()`, `operator[]` — coming soon
-
 ---
 
 ## Sample Output
